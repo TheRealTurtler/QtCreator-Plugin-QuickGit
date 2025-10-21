@@ -1,0 +1,14 @@
+{
+    "Id" : "quickgit",
+    "Name" : "QuickGit",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "Vendor" : "Michael Diedler",
+    "VendorId" : "michaeldiedler",
+    "Copyright" : "(C) 2025 Michael Diedler",
+    "License" : "LGPL-2.0",
+    "Description" : "Easy access to common git functions via a button panel",
+    "Url" : "https://github.com/TheRealTurtler",
+    "DocumentationUrl" : "",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
