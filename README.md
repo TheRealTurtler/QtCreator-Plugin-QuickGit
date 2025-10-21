@@ -1,5 +1,7 @@
 # QuickGit
 
+[![Build Plugin](https://github.com/TheRealTurtler/QtCreator-Plugin-QuickGit/actions/workflows/build_cmake.yml/badge.svg)](https://github.com/TheRealTurtler/QtCreator-Plugin-QuickGit/actions/workflows/build_cmake.yml)
+
 ## How to Build
 
 Create a build directory and run
